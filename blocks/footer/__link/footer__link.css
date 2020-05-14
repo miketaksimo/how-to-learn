@@ -1,4 +1,11 @@
 .footer__link {
   color: white;
   text-decoration: none;
+  -webkit-transition: opacity .4s;
+  -moz-transition: opacity .4s;
+  -o-transition: opacity .4s;
+  transition: opacity .4s;
+}
+.footer__link:hover {
+opacity: .7;
 }

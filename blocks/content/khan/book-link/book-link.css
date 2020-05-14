@@ -4,4 +4,11 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  -webkit-transition: opacity .4s;
+  -moz-transition: opacity .4s;
+  -o-transition: opacity .4s;
+  transition: opacity .4s;
+}
+.book-link:hover {
+opacity: .7;
 }
