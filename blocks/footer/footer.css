@@ -9,8 +9,6 @@
 @import url(./__link/footer__link.css);
 @import url(./__list/footer__list.css);
 @import url(./__social-icon/footer__social-icon.css);
-@import url(./logo/logo.css);
-@import url(./logo/_place/_footer/logo_place_footer.css);
 
 .footer {
   padding-top: 60px;
