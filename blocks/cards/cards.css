@@ -5,8 +5,8 @@
 
 .cards {
   display: flex;
-  width: 920px;
   margin: auto;
   flex-wrap: wrap;
   align-content: flex-start;
+  max-width: 920px;
 }
